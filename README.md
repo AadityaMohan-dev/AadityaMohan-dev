@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Mohan</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityamohan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aadityamohan-dev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadityamohan-dev" alt="aadityamohan-dev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aadityamohan19" target="blank"><img src="https://img.shields.io/twitter/follow/aadityamohan19?logo=twitter&style=for-the-badge" alt="aadityamohan19" /></a> </p>
