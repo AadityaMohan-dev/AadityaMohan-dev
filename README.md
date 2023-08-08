@@ -7,7 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/aadityamohan19" target="blank"><img src="https://img.shields.io/twitter/follow/aadityamohan19?logo=twitter&style=for-the-badge" alt="aadityamohan19" /></a> </p>
 
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **Angular, Java ,JavaScript and Type Script**
+
 - 📫 How to reach me **aadimohan51@gmail.com**
+
+- ⚡ Fun fact **Full Stack Developer are often compared to "Unicon" developer because they posses wide range of skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
