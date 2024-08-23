@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/aadityamohan19" target="blank"><img src="https://img.shields.io/twitter/follow/aadityamohan19?logo=twitter&style=for-the-badge" alt="aadityamohan19" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Spring Batch**
 
-- 💬 Ask me about **Angular, Java ,JavaScript and Type Script**
+- 💬 Ask me about **React, Angular, Java ,JavaScript and Type Script**
 
 - 📫 How to reach me **aadimohan51@gmail.com**
 
