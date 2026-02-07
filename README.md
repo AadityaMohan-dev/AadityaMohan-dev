@@ -1,86 +1,50 @@
+<!-- Header Banner -->
 <div align="center">
-  
-  <h1>Hi there, I'm Aaditya Mohan 👋</h1>
-  
-  <!-- Typing SVG Animation -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aaditya%20Mohan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Building%20Digital%20Experiences&descAlignY=52&descSize=18"/>
+</div>
+
+<!-- Typing SVG -->
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%26+Spring+Enthusiast;React+%26+Angular+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Passionate+about+React%2C+Angular+%26+Spring+Boot" alt="Typing SVG" />
   </a>
+</p>
 
-  <h3>A passionate Full Stack Developer from India 🇮🇳</h3>
-
-  <!-- Profile Views & Trophies -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=aadityamohan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aadityamohan-dev" />
-  </p>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aadityamohan-dev&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="aadityamohan-dev" />
+<!-- Profile Views & Social Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aadityamohan-dev&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  <a href="https://twitter.com/aadityamohan19">
+    <img src="https://img.shields.io/twitter/follow/aadityamohan19?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1a1a2e" alt="Twitter Follow"/>
   </a>
+  <a href="https://github.com/aadityamohan-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/aadityamohan-dev?label=Followers&style=for-the-badge&color=6366f1&labelColor=1a1a2e" alt="GitHub Followers"/>
+  </a>
+</p>
 
-</div>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
+<!-- About Me Section -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **About Me**
 
-<!-- About Section -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>🧐 About Me</h2>
-      <ul>
-        <li>🌱 I’m currently learning <strong>Spring Batch</strong></li>
-        <li>💬 Ask me about <strong>React, Angular, Java, JavaScript, and TypeScript</strong></li>
-        <li>📫 How to reach me: <a href="mailto:aadimohan51@gmail.com"><strong>aadimohan51@gmail.com</strong></a></li>
-        <li>⚡ <strong>Fun fact:</strong> Full Stack Developers are often compared to "Unicorns" because they possess a wide range of magical skills! 🦄</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <h2>🤝 Connect</h2>
-      <a href="https://twitter.com/aadityamohan19" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-      </a>
-      <br />
-      <a href="https://linkedin.com/in/aaditya-mohan" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-      <br />
-      <a href="https://fb.com/aaditya" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-      </a>
-      <br />
-      <a href="https://instagram.com/__.aaditya.mohan.__" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<br/>
+<br>
 
-<!-- Tech Stack Section -->
-<div align="center">
-  <h2>🛠️ Languages and Tools</h2>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring,react,angular,js,ts,html,css,bootstrap,aws,azure,docker,mysql,postgres,sqlite,git,linux,python,figma,postman&perline=10" />
-    </a>
-  </p>
-</div>
+```yaml
+name: Aaditya Mohan
+location: India 🇮🇳
+current_role: Full Stack Developer
 
-<br/>
+currently_learning: ["Spring Batch", "Cloud Architecture"]
 
-<!-- Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
+expertise:
+  frontend: ["React", "Angular", "TypeScript", "JavaScript"]
+  backend: ["Java", "Spring Boot", "Python"]
+  databases: ["PostgreSQL", "MySQL", "SQLite"]
+  cloud: ["AWS", "Azure"]
+  tools: ["Docker", "Git", "Postman"]
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadityamohan-dev&show_icons=true&locale=en&theme=tokyonight" alt="aadityamohan-dev" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityamohan-dev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aadityamohan-dev" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityamohan-dev&theme=tokyonight" alt="aadityamohan-dev" />
-</div>
-
-<br/>
+fun_fact: >
+  Full Stack Developers are often compared to "Unicorn" 
+  developers because they possess a wide range of skills! 🦄
