@@ -37,8 +37,9 @@
 
 <!-- About Section with Animated Icons -->
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me</h2>
-
-<img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20ycXUxdXdrbHhmeTgzM3VxcHB4dWt0d3RmazY5NW9sYzRtb3lzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif">
+<div align="center">
+<img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN2bzlwN2dpcXQ4d2o2YmRrZHZnbGlpd2RrZWFja2VpMW5idHNscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
+</div>
 <br><br><br><br>
 
 <!-- Tech Stack with Animated Title -->
