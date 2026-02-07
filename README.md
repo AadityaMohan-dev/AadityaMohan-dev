@@ -84,10 +84,6 @@
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityamohan-dev&custom_title=Aaditya's%20Contribution%20Graph&bg_color=0d1117&color=8B5CF6&line=EC4899&point=8B5CF6&area_color=8B5CF6&title_color=ffffff&area=true&hide_border=true" />
 
-<!-- Trophy Section -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadityamohan-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" />
-</div>
 
 <!-- Snake Animation -->
 <div align="center">
@@ -102,7 +98,3 @@
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=120&section=footer"/>
 
-<!-- Profile Counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aadityamohan-dev/count.svg" />
-</div>
