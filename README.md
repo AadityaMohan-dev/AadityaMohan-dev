@@ -80,20 +80,6 @@
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- GitHub Stats with Custom Theme -->
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AadityaMohan-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaMohan-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityamohan-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityamohan-dev&custom_title=Aaditya's%20Contribution%20Graph&bg_color=0d1117&color=8B5CF6&line=EC4899&point=8B5CF6&area_color=8B5CF6&title_color=ffffff&area=true&hide_border=true" />
