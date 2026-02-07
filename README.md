@@ -81,10 +81,19 @@
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- GitHub Stats with Custom Theme -->
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aadityamohan-dev&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117" alt="Aaditya Mohan github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aadityamohan-dev&layout=compact&hide_border=true&title_color=8B5CF6&text_color=EC4899&bg_color=0d1117" />
-</div>
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadityamohan-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityamohan-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityamohan-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityamohan-dev&custom_title=Aaditya's%20Contribution%20Graph&bg_color=0d1117&color=8B5CF6&line=EC4899&point=8B5CF6&area_color=8B5CF6&title_color=ffffff&area=true&hide_border=true" />
