@@ -80,17 +80,10 @@
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- GitHub Stats with Custom Theme -->
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> GitHub Stats</h2>
-
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aadityamohan-dev&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117" alt="Aaditya Mohan github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityamohan-dev&layout=compact&hide_border=true&title_color=8B5CF6&text_color=EC4899&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityamohan-dev&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" />
+  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aadityamohan-dev&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117" alt="Aaditya Mohan github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aadityamohan-dev&layout=compact&hide_border=true&title_color=8B5CF6&text_color=EC4899&bg_color=0d1117" />
 </div>
 
 <!-- Contribution Graph -->
